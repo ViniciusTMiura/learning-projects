@@ -1,0 +1,920 @@
+[
+  {
+    "flagCode": "AU",
+    "country": "Australia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 18.12,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 35810
+  },
+  {
+    "flagCode": "NZ",
+    "country": "New Zealand",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 16.42,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 34150
+  },
+  {
+    "flagCode": "GB",
+    "country": "United Kingdom",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 15.67,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 32596
+  },
+  {
+    "flagCode": "LU",
+    "country": "Luxembourg",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 15.43,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 32103
+  },
+  {
+    "flagCode": "DE",
+    "country": "Germany",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 15.16,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 31537
+  },
+  {
+    "flagCode": "BE",
+    "country": "Belgium",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 14.58,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 28809
+  },
+  {
+    "flagCode": "FR",
+    "country": "France",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 14.05,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 25572
+  },
+  {
+    "flagCode": "IE",
+    "country": "Ireland",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 13.96,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 28203
+  },
+  {
+    "flagCode": "NL",
+    "country": "Netherlands",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 11.98,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 24925
+  },
+  {
+    "flagCode": "MC",
+    "country": "Monaco",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 11.88,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 24092
+  },
+  {
+    "flagCode": "CA",
+    "country": "Canada",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 11.6,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 24128
+  },
+  {
+    "flagCode": "WS",
+    "country": "Samoa",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 10.93,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1625
+  },
+  {
+    "flagCode": "SM",
+    "country": "San Marino",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 10.93,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 21310
+  },
+  {
+    "flagCode": "KR",
+    "country": "South Korea",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 10.09,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 20990
+  },
+  {
+    "flagCode": "IL",
+    "country": "Israel",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 10,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 21845
+  },
+  {
+    "flagCode": "JP",
+    "country": "Japan",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 8.67,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 18024
+  },
+  {
+    "flagCode": "ES",
+    "country": "Spain",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 8.39,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 17457
+  },
+  {
+    "flagCode": "SI",
+    "country": "Slovenia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 8.21,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 17079
+  },
+  {
+    "flagCode": "AD",
+    "country": "Andorra",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 8,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 18253
+  },
+  {
+    "flagCode": "LT",
+    "country": "Lithuania",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 7.51,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 15621
+  },
+  {
+    "flagCode": "US",
+    "country": "United States",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 7.25,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 15080
+  },
+  {
+    "flagCode": "PL",
+    "country": "Poland",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 6.97,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 14506
+  },
+  {
+    "flagCode": "GR",
+    "country": "Greece",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 6.6,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 13738
+  },
+  {
+    "flagCode": "TR",
+    "country": "Turkey",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 5.88,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 8040
+  },
+  {
+    "flagCode": "TW",
+    "country": "Taiwan",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 5.76,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 11973
+  },
+  {
+    "flagCode": "PT",
+    "country": "Portugal",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 5.6,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 11638
+  },
+  {
+    "flagCode": "MT",
+    "country": "Malta",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 5.41,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 11245
+  },
+  {
+    "flagCode": "BS",
+    "country": "Bahamas",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 5.25,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 10920
+  },
+  {
+    "flagCode": "HK",
+    "country": "Hong Kong",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 5.15,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 10708
+  },
+  {
+    "flagCode": "SA",
+    "country": "Saudi Arabia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 5.13,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 12800
+  },
+  {
+    "flagCode": "EE",
+    "country": "Estonia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 5.09,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 10578
+  },
+  {
+    "flagCode": "CZ",
+    "country": "Czechia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 4.79,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 9959
+  },
+  {
+    "flagCode": "MO",
+    "country": "Macau",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 4.79,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 9972
+  },
+  {
+    "flagCode": "SK",
+    "country": "Slovakia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 4.77,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 9914
+  },
+  {
+    "flagCode": "RO",
+    "country": "Romania",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 4.58,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 9519
+  },
+  {
+    "flagCode": "HU",
+    "country": "Hungary",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 4.42,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 9184
+  },
+  {
+    "flagCode": "OM",
+    "country": "Oman",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 4.39,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 10263
+  },
+  {
+    "flagCode": "BB",
+    "country": "Barbados",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 4.25,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 8840
+  },
+  {
+    "flagCode": "LV",
+    "country": "Latvia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 4.23,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 8799
+  },
+  {
+    "flagCode": "BG",
+    "country": "Bulgaria",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 3.93,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 8181
+  },
+  {
+    "flagCode": "CL",
+    "country": "Chile",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 3.46,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 7906
+  },
+  {
+    "flagCode": "EC",
+    "country": "Ecuador",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 3.43,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 7124
+  },
+  {
+    "flagCode": "KN",
+    "country": "Saint Kitts and Nevis",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 3.33,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 6933
+  },
+  {
+    "flagCode": "ME",
+    "country": "Montenegro",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 3.07,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 6387
+  },
+  {
+    "flagCode": "AG",
+    "country": "Antigua and Barbuda",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 3.04,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 6317
+  },
+  {
+    "flagCode": "PW",
+    "country": "Palau",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 3,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 6240
+  },
+  {
+    "flagCode": "PS",
+    "country": "Palestine",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 2.98,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 6985
+  },
+  {
+    "flagCode": "CR",
+    "country": "Costa Rica",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 2.78,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 6932
+  },
+  {
+    "flagCode": "BZ",
+    "country": "Belize",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 2.5,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 5850
+  },
+  {
+    "flagCode": "UY",
+    "country": "Uruguay",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 2.46,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 6136
+  },
+  {
+    "flagCode": "CO",
+    "country": "Colombia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 2.26,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 5638
+  },
+  {
+    "flagCode": "AL",
+    "country": "Albania",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 2.23,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 4637
+  },
+  {
+    "flagCode": "TT",
+    "country": "Trinidad and Tobago",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 2.22,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 4615
+  },
+  {
+    "flagCode": "JO",
+    "country": "Jordan",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 2.17,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 5408
+  },
+  {
+    "flagCode": "LB",
+    "country": "Lebanon",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 2.15,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 5373
+  },
+  {
+    "flagCode": "JM",
+    "country": "Jamaica",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 2.14,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 4461
+  },
+  {
+    "flagCode": "HN",
+    "country": "Honduras",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 2.12,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 4842
+  },
+  {
+    "flagCode": "MX",
+    "country": "Mexico",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 2.01,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 5020
+  },
+  {
+    "flagCode": "MH",
+    "country": "Marshall Islands",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 2,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 4160
+  },
+  {
+    "flagCode": "PY",
+    "country": "Paraguay",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.99,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 4957
+  },
+  {
+    "flagCode": "FJ",
+    "country": "Fiji",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.93,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 4823
+  },
+  {
+    "flagCode": "BA",
+    "country": "Bosnia and Herzegovina",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.9,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3949
+  },
+  {
+    "flagCode": "BO",
+    "country": "Bolivia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.88,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 4703
+  },
+  {
+    "flagCode": "MY",
+    "country": "Malaysia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.86,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 4348
+  },
+  {
+    "flagCode": "RU",
+    "country": "Russia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.76,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3656
+  },
+  {
+    "flagCode": "MA",
+    "country": "Morocco",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.75,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3997
+  },
+  {
+    "flagCode": "RS",
+    "country": "Serbia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.74,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3610
+  },
+  {
+    "flagCode": "PH",
+    "country": "Philippines",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.64,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3405
+  },
+  {
+    "flagCode": "SV",
+    "country": "El Salvador",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.6,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3650
+  },
+  {
+    "flagCode": "SC",
+    "country": "Seychelles",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.58,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3282
+  },
+  {
+    "flagCode": "ZA",
+    "country": "South Africa",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.57,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3671
+  },
+  {
+    "flagCode": "GT",
+    "country": "Guatemala",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.57,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3924
+  },
+  {
+    "flagCode": "GA",
+    "country": "Gabon",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.56,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3246
+  },
+  {
+    "flagCode": "VU",
+    "country": "Vanuatu",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.56,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3240
+  },
+  {
+    "flagCode": "PA",
+    "country": "Panama",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.53,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3819
+  },
+  {
+    "flagCode": "TH",
+    "country": "Thailand",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.5,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3733
+  },
+  {
+    "flagCode": "BR",
+    "country": "Brazil",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.49,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3406
+  },
+  {
+    "flagCode": "DM",
+    "country": "Dominica",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.48,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3081
+  },
+  {
+    "flagCode": "UA",
+    "country": "Ukraine",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.42,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2946
+  },
+  {
+    "flagCode": "AR",
+    "country": "Argentina",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.4,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3360
+  },
+  {
+    "flagCode": "MD",
+    "country": "Moldova",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.31,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2715
+  },
+  {
+    "flagCode": "CN",
+    "country": "China",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.27,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2642
+  },
+  {
+    "flagCode": "PE",
+    "country": "Peru",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.27,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 3170
+  },
+  {
+    "flagCode": "ID",
+    "country": "Indonesia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.18,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2449
+  },
+  {
+    "flagCode": "AZ",
+    "country": "Azerbaijan",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.17,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2435
+  },
+  {
+    "flagCode": "MK",
+    "country": "North Macedonia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.16,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2418
+  },
+  {
+    "flagCode": "VC",
+    "country": "Saint Vincent and the Grenadines",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.16,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2407
+  },
+  {
+    "flagCode": "DO",
+    "country": "Dominican Republic",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.14,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2613
+  },
+  {
+    "flagCode": "GQ",
+    "country": "Equatorial Guinea",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.12,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2792
+  },
+  {
+    "flagCode": "MN",
+    "country": "Mongolia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.11,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2316
+  },
+  {
+    "flagCode": "MU",
+    "country": "Mauritius",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.08,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2538
+  },
+  {
+    "flagCode": "NG",
+    "country": "Nigeria",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 1.01,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2103
+  },
+  {
+    "flagCode": "IQ",
+    "country": "Iraq",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.99,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2069
+  },
+  {
+    "flagCode": "GY",
+    "country": "Guyana",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.97,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2015
+  },
+  {
+    "flagCode": "KI",
+    "country": "Kiribati",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.97,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2033
+  },
+  {
+    "flagCode": "KW",
+    "country": "Kuwait",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.96,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2400
+  },
+  {
+    "flagCode": "PG",
+    "country": "Papua New Guinea",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.91,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2086
+  },
+  {
+    "flagCode": "AM",
+    "country": "Armenia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.86,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1787
+  },
+  {
+    "flagCode": "DZ",
+    "country": "Algeria",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.85,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1777
+  },
+  {
+    "flagCode": "TN",
+    "country": "Tunisia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.8,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 2000
+  },
+  {
+    "flagCode": "BW",
+    "country": "Botswana",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.77,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1933
+  },
+  {
+    "flagCode": "VN",
+    "country": "Vietnam",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.76,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1591
+  },
+  {
+    "flagCode": "IR",
+    "country": "Iran",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.76,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1747
+  },
+  {
+    "flagCode": "HR",
+    "country": "Croatia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.76,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1585
+  },
+  {
+    "flagCode": "KM",
+    "country": "Comoros",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.76,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1587
+  },
+  {
+    "flagCode": "CV",
+    "country": "Cape Verde",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.73,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1673
+  },
+  {
+    "flagCode": "LA",
+    "country": "Laos",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.69,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1732
+  },
+  {
+    "flagCode": "TD",
+    "country": "Chad",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.64,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1298
+  },
+  {
+    "flagCode": "NP",
+    "country": "Nepal",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.61,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1524
+  },
+  {
+    "flagCode": "NI",
+    "country": "Nicaragua",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.6,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1506
+  },
+  {
+    "flagCode": "TL",
+    "country": "Timor-Leste",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.6,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1380
+  },
+  {
+    "flagCode": "LY",
+    "country": "Libya",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.56,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1169
+  },
+  {
+    "flagCode": "PK",
+    "country": "Pakistan",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.52,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1289
+  },
+  {
+    "flagCode": "UZ",
+    "country": "Uzbekistan",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.5,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1041
+  },
+  {
+    "flagCode": "MR",
+    "country": "Mauritania",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.47,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 982
+  },
+  {
+    "flagCode": "MZ",
+    "country": "Mozambique",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.44,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 906
+  },
+  {
+    "flagCode": "CU",
+    "country": "Cuba",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.44,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 44
+  },
+  {
+    "flagCode": "BJ",
+    "country": "Benin",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.42,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 865
+  },
+  {
+    "flagCode": "AF",
+    "country": "Afghanistan",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.41,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 858
+  },
+  {
+    "flagCode": "HT",
+    "country": "Haiti",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.41,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 1014
+  },
+  {
+    "flagCode": "LS",
+    "country": "Lesotho",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.41,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 956
+  },
+  {
+    "flagCode": "SY",
+    "country": "Syria",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.4,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 96
+  },
+  {
+    "flagCode": "SB",
+    "country": "Solomon Islands",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.4,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 933
+  },
+  {
+    "flagCode": "GH",
+    "country": "Ghana",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.39,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 814
+  },
+  {
+    "flagCode": "CF",
+    "country": "Central African Republic",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.39,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 821
+  },
+  {
+    "flagCode": "CI",
+    "country": "Ivory Coast",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.38,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 792
+  },
+  {
+    "flagCode": "CM",
+    "country": "Cameroon",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.38,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 785
+  },
+  {
+    "flagCode": "BF",
+    "country": "Burkina Faso",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.36,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 750
+  },
+  {
+    "flagCode": "TG",
+    "country": "Togo",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.36,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 757
+  },
+  {
+    "flagCode": "SN",
+    "country": "Senegal",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.33,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 686
+  },
+  {
+    "flagCode": "SZ",
+    "country": "Eswatini",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.33,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 694
+  },
+  {
+    "flagCode": "NE",
+    "country": "Niger",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.31,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 650
+  },
+  {
+    "flagCode": "MM",
+    "country": "Myanmar",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.3,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 691
+  },
+  {
+    "flagCode": "AO",
+    "country": "Angola",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.29,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 663
+  },
+  {
+    "flagCode": "BT",
+    "country": "Bhutan",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.29,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 609
+  },
+  {
+    "flagCode": "SL",
+    "country": "Sierra Leone",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.28,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 575
+  },
+  {
+    "flagCode": "IN",
+    "country": "India",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.27,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 674
+  },
+  {
+    "flagCode": "ML",
+    "country": "Mali",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.25,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 616
+  },
+  {
+    "flagCode": "LK",
+    "country": "Sri Lanka",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.24,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 603
+  },
+  {
+    "flagCode": "ZM",
+    "country": "Zambia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.24,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 596
+  },
+  {
+    "flagCode": "UG",
+    "country": "Uganda",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.2,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 426
+  },
+  {
+    "flagCode": "MG",
+    "country": "Madagascar",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.18,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 376
+  },
+  {
+    "flagCode": "GW",
+    "country": "Guinea-Bissau",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.18,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 412
+  },
+  {
+    "flagCode": "KG",
+    "country": "Kyrgyzstan",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.17,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 349
+  },
+  {
+    "flagCode": "TJ",
+    "country": "Tajikistan",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.13,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 265
+  },
+  {
+    "flagCode": "MW",
+    "country": "Malawi",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.11,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 266
+  },
+  {
+    "flagCode": "GM",
+    "country": "Gambia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.1,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 253
+  },
+  {
+    "flagCode": "CD",
+    "country": "DR Congo",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.09,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 220
+  },
+  {
+    "flagCode": "TZ",
+    "country": "Tanzania",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.09,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 209
+  },
+  {
+    "flagCode": "BD",
+    "country": "Bangladesh",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.08,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 212
+  },
+  {
+    "flagCode": "GE",
+    "country": "Georgia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.04,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 93
+  },
+  {
+    "flagCode": "SD",
+    "country": "Sudan",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": 0.01,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 13
+  },
+  {
+    "flagCode": "LR",
+    "country": "Liberia",
+    "MinimumWage_MinimumHourlyWage_usd_YearFree": null,
+    "MinimumWage_AvgGrossAnnualIncomeAtMinimumWage_usd_YearFree": 4
+  }
+]
