@@ -3,8 +3,13 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
-def barplot_column(df, column, legend=True):
-    ax = sns.barplot(data=df, x=column, y="count", hue=column, palette="hls")
+def barplot_column(df, column, legend=True, custom_palette=None, as_cmap=False):
+
+    palette = 'hls'
+    if custom_palette:
+        palette = sns.color_palette(custom_palette, as_cmap=as_cmap)
+
+    ax = sns.barplot(data=df, x=column, y="count", hue=column, palette=palette)
 
     if legend:
         # Legend
